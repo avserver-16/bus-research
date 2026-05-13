@@ -205,33 +205,6 @@ Implement airline-style pricing strategies based on:
 
 ---
 
-# Future Improvements
-
-Potential upgrades include:
-
-* Machine learning demand forecasting
-* Seasonal trend analysis
-* Fuel cost optimization
-* Occupancy prediction
-* Real-time ticket pricing
-* Geographic heatmaps
-* AI-powered route recommendations
-* Streamlit or Power BI dashboards
-
----
-
-# Sample Insights
-
-Examples of insights generated:
-
-* Routes with high frequency but low competition
-* Premium AC corridors with high profitability
-* Cities acting as transport hubs
-* Routes suitable for sleeper bus deployment
-* Expansion-ready markets
-
----
-
 # How to Run
 
 ## Install Dependencies
